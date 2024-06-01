@@ -48,7 +48,7 @@ WeatherUNO is created by me , which means you are free to use, modify, and distr
 
 # Contact
 
-If you have any questions, feedback, or inquiries, please don't hesitate to reach out to me. You can contact me by email - anantaggcsai@gmail.com 
+If you have any questions, feedback, or inquiries, please don't hesitate to reach out to me. You can contact me by email - gm3186126@gmail.com 
 or create an issue on the GitHub repository.
 
 # Final Thoughts
